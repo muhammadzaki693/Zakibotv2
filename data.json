@@ -1,0 +1,8 @@
+{
+	"cogs": ["developer","utils","math"],
+	"command": {
+		"developer": ["reload", "unload", "load", "listcogs"],
+		"utils": ["ping", "say"],
+		"math": ["add", "subtract", "multiply", "divide", "mod", "sqrt", "pow", "fibbonaci"]
+	}
+}
